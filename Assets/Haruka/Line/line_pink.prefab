@@ -90,7 +90,7 @@ GameObject:
   - component: {fileID: 198543832675810004}
   - component: {fileID: 199982020497371572}
   m_Layer: 0
-  m_Name: rine_pink
+  m_Name: line_pink
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
