@@ -7,7 +7,7 @@ public class MoveScript : MonoBehaviour {
     [SerializeField]
     private Joystick _joystick = null;
 
-    private const float SPEED = 0.1f;
+    public float SPEED;
 	
 	// Update is called once per frame
 	private void Update () {
