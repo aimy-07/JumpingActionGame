@@ -98,7 +98,6 @@ public class ActionScript : MonoBehaviour
             Destroy(Enemy);
             Enemies = GameObject.FindGameObjectsWithTag("Enemy");
             Hit.SetActive(true);
-            Gauge.SetActive(false);
         }
         else
         {
